@@ -9,6 +9,7 @@ Follow these steps to get started with contributing your recipe:
 1. **Fork the Repository:** Start by forking this repository to your GitHub account. This will create a copy of the project under your account.
 
 2. **Clone the Repository:** Clone the forked repository to your local machine using the following command:
+
    ```bash
    git clone https://github.com/CalebYeboah27/recipe-book.git
    ```
@@ -18,6 +19,7 @@ Follow these steps to get started with contributing your recipe:
 4. **Add Your Recipe:** Write your recipe in a clear and detailed manner. You can use markdown formatting to make it more visually appealing.
 
 5. **Commit and Push:** Add your changes, commit them, and push the changes to your branch on GitHub.
+
    ```bash
    git add .
    git commit -m "Add my favorite pasta recipe"
