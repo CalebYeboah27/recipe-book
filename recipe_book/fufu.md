@@ -1,6 +1,6 @@
 # Ghanaian Fufu with Light Soup
 
-**Contributed by:** [Your Name]
+**Contributed by:** Caleb Yeboah
 
 ## Ingredients
 
